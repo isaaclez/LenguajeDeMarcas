@@ -16,23 +16,23 @@
           },
           {
             "isbn": "978-84-96097-45-2",
-            "titulo": "Lenguaje XML UF2217",
-            "nivel": "Avanzado",
-            "autores": "Francisto Castro Baez",
-            "editorial": "Editorial Elearning",
-            "fecha_de_publicacion": "01/05/2015",
-            "web": "https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1526036330_UF2217_demo.pdf",
-            "precio": "35.00 €"
+            "titulo": "XML Curso de iniciacion",
+            "nivel": "Basico",
+            "autores": "David Hunter",
+            "editorial": "Inforbooks",
+            "fecha_de_publicacion": "15/07/2001",
+            "web": null,
+            "precio": "23.50 €"
           },
           {
             "isbn": "978-84-415-1826-1",
-            "titulo": "Lenguaje XML UF2217",
-            "nivel": "Avanzado",
-            "autores": "Francisto Castro Baez",
-            "editorial": "Editorial Elearning",
-            "fecha_de_publicacion": "01/05/2015",
-            "web": "https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1526036330_UF2217_demo.pdf",
-            "precio": "35.00"
+            "titulo": "Guia practica para el usuario XML",
+            "nivel": "Intermedio",
+            "autores": "Oscar Gonzalez",
+            "editorial": "Anaya Multimedia",
+            "fecha_de_publicacion": "14/02/2001",
+            "web": null,
+            "precio": "11.86 €"
           }
         ]
       }
@@ -43,33 +43,33 @@
         "libro": [
           {
             "isbn" : "978-84-7897-585-3",
-            "titulo": "Lenguaje XML UF2217",
+            "titulo": "Publicacion en internet y tecnologia XML",
             "nivel": "Avanzado",
-            "autores": "Francisto Castro Baez",
-            "editorial": "Editorial Elearning",
-            "fecha_de_publicacion": "01/05/2015",
-            "web": "https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1526036330_UF2217_demo.pdf",
-            "precio": 35.00
+            "autores": "Alonso Rodriguez Zamora",
+            "editorial": "Ra-Ma Editorial",
+            "fecha_de_publicacion": "17/11/2003",
+            "web": "https://www.ra-ma.es/libro/publicacion-en-internet-y-tecnologia-xml_141392/",
+            "precio": "23,66 €"
           },
           {
             "isbn" : "978-84-415-1576-5",
-            "titulo" : "Lenguaje XML UF2217",
-            "nivel" : "Avanzado",
-            "autores" : "Francisto Castro Baez",
-            "editorial" : "Editorial Elearning",
-            "fecha_de_publicacion" : "01/05/2015",
-            "web" : "https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1526036330_UF2217_demo.pdf",
-            "precio" : 35.00
+            "titulo" : "Manual imprescindible XML",
+            "nivel" : "Basico",
+            "autores" : "Juan Diego Gutierrez",
+            "editorial" : "Anaya Multimedia",
+            "fecha_de_publicacion" : "03/07/2005",
+            "web" : null,
+            "precio" : "26,44 €"
           },
           {
             "isbn" : "978-2-7460-9736-0",
-            "titulo" : "Lenguaje XML UF2217",
-            "nivel" : "Avanzado",
-            "autores" : "Francisto Castro Baez",
-            "editorial" : "Editorial Elearning",
-            "fecha_de_publicacion" : "01/05/2015",
-            "web" : "https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1526036330_UF2217_demo.pdf",
-            "precio" : 35.00
+            "titulo" : "XML Practico Bases esenciales, conceptos y casos prácticos",
+            "nivel" : "Intermedio",
+            "autores" : "Thierry Boulanger",
+            "editorial" : "ENI Ediciones",
+            "fecha_de_publicacion" : "01/02/2009",
+            "web" : "https://www.ediciones-eni.com/libro/xml-practico-bases-esenciales-conceptos-y-casos-practicos-2-edicion-9782746097360",
+            "precio" : "28,41 €"
           }
         ]
       }

@@ -1,7 +1,8 @@
 {
-  "oferta": {
+  "oferta":
+  {
       "vehiculo" : [
-        {
+      {
           "marca": "Ford",
           "color": "Gris",
           "motor": {
@@ -12,10 +13,26 @@
             "precio_inicial": 12000,
             "precio_oferta": 10000
           },
-          "extra": {
-
-          },
-          "fotos": ["11325.jpg", "11326.jpg"]
+          "extra": [
+            {
+              "nombre" : "Pintura",
+              "detalles" : {
+                "tipo": "Metalizado"
+              },
+              "valor" : "8000 €"
+            },
+            {
+              "nombre" : "Llantas",
+              "detalles" : {
+                "tipo": "Deportivas"
+              },
+              "valor": "8000 €"
+            }
+          ],
+          "fotos": {
+            "interior" : "11325.jpg",
+            "exterior" : "11326.jpg"
+          }
         },
         {
           "marca": "Ferrari",
@@ -28,12 +45,37 @@
             "precio_inicial": 500000,
             "precio_oferta": 450000
           },
-          "extra": {
-
-          },
-          "fotos": ["22133.jpg", "22321.jpg"]
+          "extra": [
+            {
+              "nombre" : "Estereo",
+              "detalles" : {
+                "modelo": "XH360",
+                "marca": "Bose"
+              },
+              "valor" : "8000 €"
+            },
+            {
+              "nombre" : "Climatizador",
+              "detalles" : {
+                "modelo": "Air turbo 5000",
+                "marca": "Xiaomi"
+              },
+              "valor": "8000 €"
+            },
+            {
+              "nombre" : "Tapizado",
+              "detalles": {
+                "color": "Burdeos",
+                "material": "cuero"
+              },
+              "valor" : "8000 €"
+            }
+          ],
+          "fotos":{
+            "interior" : "22133.jpg",
+            "exterior" : "22321.jpg"
+          }
         }
       ]
   }
-
 }
