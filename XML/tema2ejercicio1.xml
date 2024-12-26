@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Agenda>
+	<persona>
+		<nombre>Elsa</nombre>
+		<mujer/>
+		<fecha_de_nacimiento>
+			<día>18</día>
+			<mes>6</mes>
+			<año>1996</año>
+		</fecha_de_nacimiento>
+		<ciudad>Pamplona</ciudad>
+	</persona>
+	<persona>
+		<nombre>Carlos</nombre>
+		<hombre/>
+		<fecha_de_nacimiento>
+			<día>25</día>
+			<mes>12</mes>
+			<año>1994</año>
+		</fecha_de_nacimiento>
+		<ciudad>Madrid</ciudad>
+	</persona>
+	<persona>
+		<nombre>Juan</nombre>
+		<hombre/>
+		<fecha_de_nacimiento>
+			<día>3</día>
+			<mes>5</mes>
+			<año>2001</año>
+		</fecha_de_nacimiento>
+		<ciudad>Castellon</ciudad>
+	</persona>
+</Agenda>

@@ -1,0 +1,39 @@
+{
+  "oferta": {
+      "vehiculo" : [
+        {
+          "marca": "Ford",
+          "color": "Gris",
+          "motor": {
+            "combustible": "Gasolina",
+            "capacidad": "1,4L",
+            "matricula": "1234AAA",
+            "kilometros": "268000",
+            "precio_inicial": 12000,
+            "precio_oferta": 10000
+          },
+          "extra": {
+
+          },
+          "fotos": ["11325.jpg", "11326.jpg"]
+        },
+        {
+          "marca": "Ferrari",
+          "color": "Azul electrico",
+          "motor": {
+            "combustible": "Gasolina",
+            "capacidad": "3,4L",
+            "matricula": "0001EAU",
+            "kilometros": "354000",
+            "precio_inicial": 500000,
+            "precio_oferta": 450000
+          },
+          "extra": {
+
+          },
+          "fotos": ["22133.jpg", "22321.jpg"]
+        }
+      ]
+  }
+
+}

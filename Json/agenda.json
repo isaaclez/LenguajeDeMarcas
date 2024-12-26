@@ -1,0 +1,36 @@
+{
+  "agenda":{
+      "persona": [
+        {
+        "nombre": "Elsa",
+        "sexo": "Mujer",
+        "Fecha de nacimiento": {
+          "dia": 18,
+          "mes": 6,
+          "año": 1996
+          },
+        "Ciudad": "Pamplona"
+        },
+        {
+          "nombre": "Carlos",
+          "sexo": "Hombre",
+          "Fecha de nacimiento": {
+            "dia": 25,
+            "mes": 12,
+            "año": 1994
+          },
+          "Ciudad": "Pamplona"
+        },
+        {
+          "nombre": "Juan",
+          "sexo": "Hombre",
+          "Fecha de nacimiento": {
+            "dia": 3,
+            "mes": 5,
+            "año": 2001
+          },
+          "Ciudad": "Pamplona"
+        }
+      ]
+  }
+}

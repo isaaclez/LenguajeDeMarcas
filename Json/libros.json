@@ -1,0 +1,78 @@
+{
+  "libros" :[
+    {
+      "libreria":
+      {
+        "libro": [
+          {
+            "isbn": "978-84-16424-56-6",
+            "titulo": "Lenguaje XML UF2217",
+            "nivel": "Avanzado",
+            "autores": "Francisto Castro Baez",
+            "editorial": "Editorial Elearning",
+            "fecha_de_publicacion": "01/05/2015",
+            "web": "https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1526036330_UF2217_demo.pdf",
+            "precio": "35.00 €"
+          },
+          {
+            "isbn": "978-84-96097-45-2",
+            "titulo": "Lenguaje XML UF2217",
+            "nivel": "Avanzado",
+            "autores": "Francisto Castro Baez",
+            "editorial": "Editorial Elearning",
+            "fecha_de_publicacion": "01/05/2015",
+            "web": "https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1526036330_UF2217_demo.pdf",
+            "precio": "35.00 €"
+          },
+          {
+            "isbn": "978-84-415-1826-1",
+            "titulo": "Lenguaje XML UF2217",
+            "nivel": "Avanzado",
+            "autores": "Francisto Castro Baez",
+            "editorial": "Editorial Elearning",
+            "fecha_de_publicacion": "01/05/2015",
+            "web": "https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1526036330_UF2217_demo.pdf",
+            "precio": "35.00"
+          }
+        ]
+      }
+    },
+      {
+      "libreria" :
+      {
+        "libro": [
+          {
+            "isbn" : "978-84-7897-585-3",
+            "titulo": "Lenguaje XML UF2217",
+            "nivel": "Avanzado",
+            "autores": "Francisto Castro Baez",
+            "editorial": "Editorial Elearning",
+            "fecha_de_publicacion": "01/05/2015",
+            "web": "https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1526036330_UF2217_demo.pdf",
+            "precio": 35.00
+          },
+          {
+            "isbn" : "978-84-415-1576-5",
+            "titulo" : "Lenguaje XML UF2217",
+            "nivel" : "Avanzado",
+            "autores" : "Francisto Castro Baez",
+            "editorial" : "Editorial Elearning",
+            "fecha_de_publicacion" : "01/05/2015",
+            "web" : "https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1526036330_UF2217_demo.pdf",
+            "precio" : 35.00
+          },
+          {
+            "isbn" : "978-2-7460-9736-0",
+            "titulo" : "Lenguaje XML UF2217",
+            "nivel" : "Avanzado",
+            "autores" : "Francisto Castro Baez",
+            "editorial" : "Editorial Elearning",
+            "fecha_de_publicacion" : "01/05/2015",
+            "web" : "https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1526036330_UF2217_demo.pdf",
+            "precio" : 35.00
+          }
+        ]
+      }
+    }
+  ]
+}

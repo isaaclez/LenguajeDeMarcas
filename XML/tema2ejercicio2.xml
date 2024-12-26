@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<oferta>
+    <vehiculo>
+        <marca>Ford</marca>
+        <color>gris</color>
+        <motor combustible="gasolina">1.4L</motor>
+        <matricula>1234AAA</matricula>
+        <precio_inicial>12000</precio_inicial>
+        <precio_oferta>10000</precio_oferta>
+        <extras>
+            <pintura tipo="metalizada"> 
+                <valor>250</valor>
+            </pintura>
+            <llantas tipo="deportivas">
+                <valor>300</valor>
+            </llantas>
+        </extras>
+        <fotos>
+            <foto_exterior>11325.jpg</foto_exterior>
+            <foto_interior>11326.jpg</foto_interior>
+        </fotos>
+    </vehiculo>
+    <vehiculo>
+        <marca>Ferrari</marca>
+        <color>azul electrico</color>
+        <motor combustible="gasolina">3.4L</motor>
+        <matricula>0001EAU</matricula>
+        <kilometros>354000</kilometros>
+        <precio_inicial>500000</precio_inicial>
+        <precio_oferta>450000</precio_oferta>
+        <extras>
+            <estereo marca="bose" modelo="xh360">
+                <valor>5000</valor>
+            </estereo>
+            <climatizador marca="xioami" modelo="Air turbo 5000">
+                <valor>8000</valor>
+            </climatizador>
+            <tapizado color="burdeos" material="cuero">
+                <valor>10000</valor> 
+            </tapizado>
+        </extras>
+        <fotos>
+            <foto_exterior>22133.jpg</foto_exterior>
+            <foto_interior>22321.jpg</foto_interior>
+        </fotos>
+    </vehiculo>
+</oferta>
